@@ -35,8 +35,3 @@
 -
 
 
-
-View transitions:
-Loading view --> main view <--> menu view <--> cats view & shop view & decorate view
-						   <--> cat view
-						   <--> logbook view
