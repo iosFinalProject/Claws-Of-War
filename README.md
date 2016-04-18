@@ -1,3 +1,3 @@
 Clash of Claws: README
 
-Insert info here!
+World domination...WITH CATS
