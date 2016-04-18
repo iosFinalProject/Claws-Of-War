@@ -36,11 +36,29 @@
 
 
 
+###OBJECT CLASSES
+
+Cat:
+
+``'sh
+struct cat
+
+Food:
+
+``'sh
+struct food
+
+Decorative item:
+
+``'sh
+struc items
+
+
 ###Using the sprite kit (and then the game kit):
 
 -Create the scene, then setup the background image in the scene
 
--Displaying the (available) Cats:
+-Displaying the objects:
 	The cat objects will hold their own properties. Display the cats by creating SKNode objects (based off said properties) and adding them to the scene.
 	Place the cat objects onto the screen (and display sprite), have various actions be possible/happen regarding the cats (e.g. touch cat --> see cat info screen)
 	
