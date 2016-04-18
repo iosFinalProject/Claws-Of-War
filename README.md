@@ -37,12 +37,13 @@
 
 
 Using the sprite kit:
+
 -Create the scene, then setup the background image in the scene
+
 -Displaying the (available) cats:
 	The cat objects will hold their own properties. Display the cats by creating SKNode objects and adding them to the scene
 	Place the cat objects onto the screen (and display sprite), have various actions be possible/happen regarding the cats (e.g. touch cat --> see cat info screen)
-	'''sh
-	//Stuff
+	
 
 -Pulling up the menu/inventory/shop/etc screens without losing data in the main screen
 
