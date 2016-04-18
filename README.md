@@ -1,39 +1,37 @@
 #Clash of Claws: README
 
-##World domination...WITH CATS
 
+##VIEWS: (the rest will be added in later, these are the main features for the lite version)
 
-VIEWS: (the rest will be added in later, these are the main features for the lite version)
-
-Loading view: Loading the game!
+###Loading view: Loading the game!
 -Displays image while the game is setting up the main view (campyard), does not leave this view until setup is done
 
 
-Main view: The campsite!
+###Main view: The campsite!
 -
 
 
-Menu view: Options!
+###Menu view: Options!
 -
 
 
-Cats view: All the cats!
+###Cats view: All the cats!
 -
 
 
-Shop view: Buy food and decorations!
+###Shop view: Buy food and decorations!
 -
 
 
-Decorate view: Decorate your camp!
+###Decorate view: Decorate your camp!
 -
 
 
-Logbook view: Info and stuff on the cats you have met/befriended
+###Logbook view: Info and stuff on the cats you have met/befriended
 -
 
 
-Cat view: Individual cat info
+###Cat view: Individual cat info
 -
 
 
