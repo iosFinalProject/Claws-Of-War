@@ -36,15 +36,18 @@
 
 
 
-Using the sprite kit:
+Using the sprite kit (and then the game kit):
 
 -Create the scene, then setup the background image in the scene
 
--Displaying the (available) cats:
-	The cat objects will hold their own properties. Display the cats by creating SKNode objects and adding them to the scene
+-Displaying the (available) Cats:
+	The cat objects will hold their own properties. Display the cats by creating SKNode objects (based off said properties) and adding them to the scene.
 	Place the cat objects onto the screen (and display sprite), have various actions be possible/happen regarding the cats (e.g. touch cat --> see cat info screen)
 	
 
 -Pulling up the menu/inventory/shop/etc screens without losing data in the main screen
 
+-Having the game being able to close or run in the background without losing data. 
+	Possible use of a .txt file (read/write to) that acts as the game's savedata. 
+	Running in background: https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/BackgroundExecution/BackgroundExecution.html
 
