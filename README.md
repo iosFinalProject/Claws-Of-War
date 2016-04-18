@@ -36,7 +36,7 @@
 
 
 
-Using the sprite kit (and then the game kit):
+###Using the sprite kit (and then the game kit):
 
 -Create the scene, then setup the background image in the scene
 
