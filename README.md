@@ -40,17 +40,17 @@
 
 Cat:
 
-``'sh
+```sh
 struct cat
 
 Food:
 
-``'sh
+```sh
 struct food
 
 Decorative item:
 
-``'sh
+```sh
 struc items
 
 
